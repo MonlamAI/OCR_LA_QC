@@ -111,6 +111,30 @@ def build_xml_file(json_record: str, xml_out: str) -> None:
                 text_region_coords.attrib["points"] = get_json_coordinates(
                     json_record["spans"][i]["points"]
                 )
+            
+            elif label == "Header":
+                text_region = etree.SubElement(page, "TextRegion")
+                text_region.attrib["id"] = region_ref
+                text_region.attrib[
+                    "custom"
+                ] = "readingOrder {index:0;} structure {type:header;}"
+
+                text_region_coords = etree.SubElement(text_region, "Coords")
+                text_region_coords.attrib["points"] = get_json_coordinates(
+                    json_record["spans"][i]["points"]
+                )
+
+            elif label == "Footer":
+                text_region = etree.SubElement(page, "TextRegion")
+                text_region.attrib["id"] = region_ref
+                text_region.attrib[
+                    "custom"
+                ] = "readingOrder {index:0;} structure {type:footer;}"
+
+                text_region_coords = etree.SubElement(text_region, "Coords")
+                text_region_coords.attrib["points"] = get_json_coordinates(
+                    json_record["spans"][i]["points"]
+                )
 
             elif label == "Illustration":
                 image_region = etree.SubElement(page, "ImageRegion")

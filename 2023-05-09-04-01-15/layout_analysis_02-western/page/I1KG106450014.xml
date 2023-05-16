@@ -3,12 +3,12 @@
     <Metadata>
         <Creator>Transkribus</Creator>
         <Created>2022-09-06T12:00:26.622+02:00</Created>
-        <LastChange>2023-05-10T16:05:19.834+05:30</LastChange>
-        <TranskribusMetadata docId="-1" pageId="-1" pageNr="379" status="DONE"/>
+        <LastChange>2023-05-16T08:56:24.147+02:00</LastChange>
+        <TranskribusMetadata docId="-1" pageId="-1" pageNr="13" status="DONE"/>
     </Metadata>
     <Page imageFilename="I1KG106450014.jpg" imageWidth="457" imageHeight="700">
         <ReadingOrder>
-            <OrderedGroup id="ro_1683714919840" caption="Regions reading order">
+            <OrderedGroup id="ro_1684220184149" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="region_main"/>
                 <RegionRefIndexed index="1" regionRef="region_main"/>
             </OrderedGroup>
@@ -17,7 +17,7 @@
             <Coords points="256,632 258,653 287,653 285,632"/>
         </TextRegion>
         <TextRegion id="region_main" custom="readingOrder {index:1;}">
-            <Coords points="51.6,56.4 51.6,629.4 434.6,629.4 434.6,56.4 "/>
+            <Coords points="47,66 50,620 429,616 417,58"/>
         </TextRegion>
     </Page>
 </PcGts>
