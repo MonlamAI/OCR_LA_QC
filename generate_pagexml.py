@@ -180,7 +180,7 @@ def generate_pagexml(json_file: str, dataset_path: str) -> List[str]:
 
 if __name__ == "__main__":
     # change this path as needed
-    dataset_path = "2023-05-11-04-03-02"
+    dataset_path = "2023-05-17-04-11-08"
     json_files = glob(f"{dataset_path}/*.jsonl")
 
     for json_f in json_files:

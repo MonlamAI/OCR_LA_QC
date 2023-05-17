@@ -1,0 +1,12 @@
+---- layout_analysis_01 ---- 
+#### Missing Annotations ####
+{"id":"I00KG039060469.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/e2/W22111/images-web/W22111-I00KG03906/I00KG039060469.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=RaoVJcOfigONdZvvoZlvakqWwjQ%3D&Expires=1715411607","_input_hash":-1096751651,"_task_hash":-1425389829,"_view_id":"image_manual","width":2000,"height":302,"answer":"ignore","_annotator_id":"layout_analysis_01-wangmo","_session_id":"layout_analysis_01-wangmo"}
+
+{"id":"I4CZ755830046.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/7b/W4CZ74191/images-web/W4CZ74191-I4CZ75583/I4CZ755830046.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=qfJbh%2BRALpXPHbWL9NWS68qqRo8%3D&Expires=1715666244","_input_hash":1088558904,"_task_hash":-998213919,"_view_id":"image_manual","width":2000,"height":467,"answer":"accept","_annotator_id":"layout_analysis_01-wangmo","_session_id":"layout_analysis_01-wangmo"}
+
+{"id":"25140170.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/93/W23726/images-web/W23726-2514/25140170.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=ofnkMCun3LaexgdWOc%2BdAdl1%2F6g%3D&Expires=1715670366","_input_hash":-323112103,"_task_hash":1511212343,"_view_id":"image_manual","width":2000,"height":533,"answer":"reject","_annotator_id":"layout_analysis_01-wangmo","_session_id":"layout_analysis_01-wangmo"}
+
+{"id":"I4PD6470158.jpg_2000x700.jpg","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/b0/W2PD17480/images-web/W2PD17480-I4PD647/I4PD6470158.jpg_2000x700.jpg?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=I%2FD0IJQhAvZYtcrIYrOmlQySN0Y%3D&Expires=1715672184","_input_hash":-1242465514,"_task_hash":1056364869,"_view_id":"image_manual","width":566,"height":700,"answer":"accept","_annotator_id":"layout_analysis_01-wangmo","_session_id":"layout_analysis_01-wangmo"}
+
+#### Failed Downloads ####
+#### Duplicte Entry ####
