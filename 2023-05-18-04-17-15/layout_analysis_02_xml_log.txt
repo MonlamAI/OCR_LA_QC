@@ -1,0 +1,3 @@
+The following entries were skipped during PageXML generation:
+{"id":"38270131.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/dd/W5926/images-web/W5926-3827/38270131.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=d%2FAwN6ahScNWp2Cr1pt%2FstlimTw%3D&Expires=1715863821","_input_hash":1617628388,"_task_hash":-1248874188,"_view_id":"image_manual","width":2000,"height":362,"answer":"accept","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
