@@ -1,0 +1,15 @@
+The following entries were skipped during PageXML generation:
+{"id":"I4PD24430173.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/c6/W1PD133163/images-web/W1PD133163-I4PD2443/I4PD24430173.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=NCcU90HMM9%2FJbgRfm%2BfdlgvzIgM%3D&Expires=1716007445","_input_hash":-1182930669,"_task_hash":249919439,"_view_id":"image_manual","width":460,"height":700,"answer":"ignore","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+The following entries were skipped during PageXML generation:
+{"id":"I3CN71140037.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/17/W3CN7099/images-web/W3CN7099-I3CN7114/I3CN71140037.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=hwQAuOLxUqWY10ZVwTCOtoq11QQ%3D&Expires=1716014768","_input_hash":1697914911,"_task_hash":-1077105700,"_view_id":"image_manual","width":540,"height":700,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+The following entries were skipped during PageXML generation:
+{"id":"I3CN71140047.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/17/W3CN7099/images-web/W3CN7099-I3CN7114/I3CN71140047.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=Ze5vWAydtLKfQrcvi4LbMGAeNrw%3D&Expires=1716014768","_input_hash":-440802147,"_task_hash":-1339199035,"_view_id":"image_manual","width":540,"height":700,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+The following entries were skipped during PageXML generation:
+{"id":"I3CN71140233.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/17/W3CN7099/images-web/W3CN7099-I3CN7114/I3CN71140233.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=bzUjuxisDms06bGTWkNyoNYzUI4%3D&Expires=1716014864","_input_hash":-536813000,"_task_hash":-1579200255,"_view_id":"image_manual","width":540,"height":700,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
+The following entries were skipped during PageXML generation:
+{"id":"I3CN71140310.tif_2000x700.png","image":"https://s3.amazonaws.com/image-processing.openpecha/Works/17/W3CN7099/images-web/W3CN7099-I3CN7114/I3CN71140310.tif_2000x700.png?AWSAccessKeyId=AKIAWEXEWJ7GDFYE3KNU&Signature=iQPwiyB%2BmwVEz8JjDNTjqRdi7Mw%3D&Expires=1716014864","_input_hash":-716340694,"_task_hash":1336749524,"_view_id":"image_manual","width":540,"height":700,"answer":"reject","_annotator_id":"layout_analysis_02-nortsering","_session_id":"layout_analysis_02-nortsering"}
+
